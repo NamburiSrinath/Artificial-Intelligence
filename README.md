@@ -13,5 +13,6 @@ The following algorithms are given with codes and outputs
 8. SVM
 9. Tree classifier
 10. Backpropagation
+11. Mobilenet (Project)
 
-All the discussions regarding the code is written in the reports.
+All the discussions regarding the code is written in the reports. Please look into the AIReport file for explanation regarding algorithms (1-10) and AI Project for explanation about 11 i.e mobilenet
