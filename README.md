@@ -1,8 +1,9 @@
-# Artificial-Intelligence
+# ARTIFICIAL INTELLIGENCE
 As part of course EC6131D
 
 The following algorithms are given with codes and outputs
 
+# MACHINE LEARNING AND DEEP LEARNING ALGORITHMS
 1. Gradient Descent
 2. KNN(dataset IRIS)
 3. Linear Regression
@@ -13,6 +14,15 @@ The following algorithms are given with codes and outputs
 8. SVM
 9. Tree classifier
 10. Backpropagation
-11. Mobilenet (Project)
 
-All the discussions regarding the code is written in the reports. Please look into the AIReport file for explanation regarding algorithms (1-10) and AI Project for explanation about 11 i.e mobilenet
+# SEARCH ALGORITHMS AND ARTIFICIAL INTELLIGENCE
+11. Cannibal Missionary
+12. Eight Puzzle
+13. Eight Queens
+14. Map COloring
+15. Different Search Algorithms(BFS, DFS, UCS, Greedy, A*)
+
+# PROJECT
+16. Mobilenet (Project)
+
+All the discussions regarding the code is written in the reports. Please look into the AIReport file for explanation regarding algorithms (1-10) and AI Project for explanation about 16 i.e mobilenet
